@@ -34,5 +34,5 @@ $$R^2 = 1 - \frac{SS_{res}}{SS_{tot}}$$
     python main.py
 ```
 
-    ---
-    This project marks the completion of the **Math Phase** of my **ML Journey**. It demonstrates a fundamental understanding of how models learn through optimization.
+---
+This project marks the completion of the **Math Phase** of my **ML Journey**. It demonstrates a fundamental understanding of how models learn through optimization.
